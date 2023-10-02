@@ -179,10 +179,6 @@ fatihyildiz_blog_proj (folder)
 |----developer_notes.txt     # Given to the DevOps team (txt file)
 ```
 
-## Expected Outcome
-
-![Phonebook App Search Page](./outcome.png)
-
 ### At the end of the project, the following topics are to be covered;
 
 - Bash scripting

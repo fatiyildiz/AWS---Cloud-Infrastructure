@@ -179,7 +179,7 @@ fatihyildiz_blog_proj (folder)
 |----developer_notes.txt     # Given to the DevOps team (txt file)
 ```
 
-### At the end of the project, the following topics are to be covered;
+### The following topics were covered in this project;
 
 - Bash scripting
 
@@ -226,7 +226,7 @@ fatihyildiz_blog_proj (folder)
 
 - Git & GitHub for Version Control System
 
-### At the end of the project, students will be able to;
+### Key Highlights;
 
 - Construct a VPC environment with whole components like public and private subnets, route tables and managing their routes, Internet Gateway, and NAT Instance. 
 
@@ -234,7 +234,7 @@ fatihyildiz_blog_proj (folder)
 
 - Configure connection to the `MySQL` database.
 
-- Demonstrate bash scripting skills using the `user data` section within launch template to install and set up the Blog web application on EC2 Instance.
+- Demonstrate bash scripting skills using the `user data` section within the launch template to install and set up the Blog web application on EC2 Instance.
 
 - Create a Lambda function using S3, Lambda and DynamoDB table.
 
